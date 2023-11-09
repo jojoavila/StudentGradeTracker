@@ -1,0 +1,3 @@
+C:/Users/avila/OneDrive/10 - Fall 2023/CSE 310/StudentGradeTracker/cmake-build-debug/CMakeFiles/StudentGradeTracker.dir
+C:/Users/avila/OneDrive/10 - Fall 2023/CSE 310/StudentGradeTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/avila/OneDrive/10 - Fall 2023/CSE 310/StudentGradeTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

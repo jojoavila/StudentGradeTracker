@@ -4,7 +4,7 @@ The program provides a basic interface for managing and tracking student names a
 
 I wrote this program as an opportunity to learn the C++ programming language. I wrote it to learn the syntax and different structures that this language offers.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=eeOKr_d6PJ0)
 
 # Development Environment
 
